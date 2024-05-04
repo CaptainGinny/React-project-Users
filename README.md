@@ -1,8 +1,6 @@
 ## Guest List
 [Demo](https://captainginny.github.io/React-project-Users/)
 
-**Users**:
-
 **👀 Skills**:
 1. Working with useEffect hook
 2. sending a request to the backend using fetch and rendering this data
