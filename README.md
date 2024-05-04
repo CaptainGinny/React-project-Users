@@ -1,7 +1,5 @@
-## Guest List
+## Guest List (React-project-Users)
 [Demo](https://captainginny.github.io/React-project-Users/)
-
-**Users**:
 
 **👀 Skills**:
 1. Working with useEffect hook
